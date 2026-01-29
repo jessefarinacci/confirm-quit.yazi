@@ -1,6 +1,6 @@
 # confirm-quit.yazi
 
-[Yazi](https://github.com/sxyazi/yazi) plugin that will prevent `quit` terminating *Yazi* if there are multiple tabs open
+[Yazi](https://github.com/sxyazi/yazi) plugin that will prevent [quit](https://yazi-rs.github.io/docs/configuration/keymap/#mgr.quit) terminating *Yazi* if there are multiple tabs open
 
 _Based on an official [Yazi extension recommendation](https://yazi-rs.github.io/docs/tips#confirm-quit)._
 
