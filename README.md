@@ -4,7 +4,9 @@
 
 _Based on an official [Yazi extension recommendation](https://yazi-rs.github.io/docs/tips#confirm-quit)._
 
-<TBD: screenshot>
+## Screenshot
+
+![Screenshot](/demo.gif)
 
 ## Requirements
 
@@ -24,7 +26,7 @@ Add this to your `init.lua`:
 require("confirm-quit"):setup()
 ```
 
-Add this to your `keymap.toml`
+Add this to your `keymap.toml`:
 
 ```toml
 [[mgr.prepend_keymap]]
